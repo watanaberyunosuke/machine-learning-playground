@@ -1,0 +1,9 @@
+{
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "sonarlint.connectedMode.project": {
+        "connectionId": "watanaberyunosuke",
+        "projectKey": "watanaberyunosuke_Scikit-Learn"
+    }
+}
