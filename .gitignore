@@ -209,3 +209,5 @@ pyrightconfig.json
 artifacts
 *.pkl
 *.png
+
+MLFlow/mlruns/**
